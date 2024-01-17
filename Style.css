@@ -1,3 +1,14 @@
+/*HEADER*/
+
+/*first-section*/ 
+
+/*second-section*/ 
+
+/*third-section*/
+
+
+
+/*fourth-section*/
 h1#trending-heading{
     width: 370px;
     height: 36px;
@@ -5,7 +16,7 @@ h1#trending-heading{
     line-height: 48px;
     font-weight: 700;
     color: #262626; 
-    font-family: poppins, sans-serif; 
+    font-family: 'poppins', sans-serif; 
     margin-top: 2075px;  
     margin-right: 944px; 
     margin-left: 126px; 
@@ -28,7 +39,7 @@ h1#trending-heading{
     font-size: 12px;
     padding: 9.29px 49.96px 9.31px 49.86px;
     color: white; 
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .Trending-Container{ 
@@ -78,7 +89,7 @@ h1#trending-heading{
 .image-name-date p{
     width: 168px;
     height: 21px;
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -92,7 +103,7 @@ h1#trending-heading{
 h2#trending-card-heading{
     width: 401px;
     height: 94px;
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 39px;
@@ -104,7 +115,7 @@ h2#trending-card-heading{
 p#card-paragraph{
     width: 344px;
     height: 98px;
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -124,7 +135,7 @@ p#card-paragraph{
 .image-arrow p{
     width: 215px;
     height: 23px;
-    font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 13px;
     line-height: 18px;
@@ -135,4 +146,10 @@ p#card-paragraph{
 .image-arrow image{
     width: 51px;
     height: 39px;
-}
+} 
+
+
+/*fifth-section*/ 
+
+
+/*FOOTER*/
