@@ -1,0 +1,138 @@
+h1#trending-heading{
+    width: 370px;
+    height: 36px;
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 700;
+    color: #262626; 
+    font-family: poppins, sans-serif; 
+    margin-top: 2075px;  
+    margin-right: 944px; 
+    margin-left: 126px; 
+    margin-bottom: 55px;
+
+}
+
+
+.trending-text{
+    width: 175.44px;
+    height: 36.49px; 
+    border-radius: 40px; 
+    background-color: #262626; 
+}  
+
+.trending-text p{  
+    width: 76px;
+    height: 19px;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 9.29px 49.96px 9.31px 49.86px;
+    color: white; 
+    font-family: Poppins, sans-serif;
+}
+
+.Trending-Container{ 
+    width: 1218px;
+    height: 670px;  
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    gap: 60px; 
+    margin-left: 128px;
+    margin-right: 118px;
+}  
+
+.Trending-Card1{
+    width: 579px;
+    height: 670px;
+    border-radius: 20px;
+}
+
+.trending-image-container1{  
+    background-image: url(1.png);
+    background-repeat: no-repeat; 
+    width: 579.02px;
+    height: 278.09px; 
+    padding: 20.67px 369.07px 15.83px 34.14px;
+}  
+
+.trending-image-container2{
+    background-image: url(2.png);
+    background-repeat: no-repeat; 
+    width: 579.02px;
+    height: 278.09px;  
+    padding-top: 20.67px; 
+    padding-bottom: 15.83px;
+    padding-left: 34.14px;
+} 
+
+.image-name-date{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: flex-start; 
+    gap: 21.08px; 
+    padding-left: 33.24px;
+
+}  
+
+.image-name-date p{
+    width: 168px;
+    height: 21px;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #BCBCBC;
+}
+
+#date{
+    padding-left: 71px;
+} 
+
+h2#trending-card-heading{
+    width: 401px;
+    height: 94px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    color: #262626; 
+    padding-left: 33.24px;
+
+} 
+
+p#card-paragraph{
+    width: 344px;
+    height: 98px;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #262626; 
+    padding-left: 34.24px;
+} 
+
+.image-arrow{
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-start; 
+    align-items: center;
+    gap: 10px; 
+    padding-left: 22.24px;
+} 
+
+.image-arrow p{
+    width: 215px;
+    height: 23px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 2.50px;
+    color: #4ce0d7;
+} 
+
+.image-arrow image{
+    width: 51px;
+    height: 39px;
+}
