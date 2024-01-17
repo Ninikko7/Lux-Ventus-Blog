@@ -151,5 +151,125 @@ p#card-paragraph{
 
 /*fifth-section*/ 
 
+h2{
+    font-family: 'Poppins', sans-serif;
+    width: 543px;
+    height: 94px;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.fifth-section{  
+   max-width: 1204px;
+   margin: 0 auto;
+   width: 100% 
+    
+}
+
+
+
+.card{
+    display: flex;
+    gap: 46px;
+    margin-bottom: 49px;
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.05);
+    
+
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    margin-top: 26px;
+    width: 543px;
+}
+   
+
+
+.author{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 17px
+}
+
+.artical{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+span{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #BCBCBC;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgba(76, 224, 215, 1);
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.24em;
+    text-align: left; 
+    width: 215px;
+    height: 23px;
+}
+
+.green{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+    
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay-button {
+    text-align: center;
+    position: absolute;
+    top: 14%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    padding: 5px 20px;
+    background-color: rgba(38, 38, 38, 1);
+    color: white;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    width: 176px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 569px;
+    height: 73px;
+}
 
 /*FOOTER*/
